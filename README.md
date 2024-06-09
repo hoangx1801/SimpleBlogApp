@@ -3,6 +3,8 @@
 
 ![alt text](/SimpleBlogApp.png?raw=true)
 
+## CRUD and Authentication
+
 ## Create .env file
 Create a .env file to store your credentials. Example below:
 
