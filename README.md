@@ -1,7 +1,7 @@
 # Simple Blog App
 # CRUD with NodeJS, ExpressJS, EJS and MongoDB
 
-![alt text](/Simple Blog App.png?raw=true)
+![alt text](/SimpleBlogApp.png?raw=true)
 
 ## Create .env file
 Create a .env file to store your credentials. Example below:
